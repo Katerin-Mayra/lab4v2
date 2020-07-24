@@ -1,3 +1,5 @@
+//3. A todo el servicio agregue seguridad basándose en JWT, según lo visto en clases
+
 var JWT=require("jsonwebtoken");
 var USER = require("../database/users");
 

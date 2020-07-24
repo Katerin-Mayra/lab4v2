@@ -1,6 +1,6 @@
 /////////////////////////////////////Desafío ///////////////////////////////
 
-//Usando la librería express-upload, cree un servicio de nombre updateavatar​ , que pueda subir una imagen al servidor, actualice el
+//1. Usando la librería express-upload, cree un servicio de nombre updateavatar​ , que pueda subir una imagen al servidor, actualice el
 //esquema para almacenar la ruta de la imagen tanto física como ruta relativa, además al momento de subir la imagen se deberá actualizar los
 //atributos necesarios que contemplan la ruta física y la ruta relativa.
 
@@ -100,7 +100,7 @@ router.get("/listavat",midleware, async(req, res) => {
     res.status(200).json(docs);
 });
 
-//Cree un servicio que permita mostrar la imagen en función de su id, usando para ello la función del objeto response sendFile.
+//2. Cree un servicio que permita mostrar la imagen en función de su id, usando para ello la función del objeto response sendFile.
 
 router.get("/listarIMG",async(req,res)=>{
     var params = req.query;
