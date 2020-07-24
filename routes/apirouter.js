@@ -1,3 +1,6 @@
+///////////////////////////////////SEMINARIO DE SISTEMAS/////////////////////////////////////
+////NOMBRE : Katerin Mayra Parra Alvarez
+////CI :     8522693
 var express = require('express');
 var router = express.Router();
 var sha1 = require("sha1");

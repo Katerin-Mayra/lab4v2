@@ -1,3 +1,8 @@
+///////////////////////////////////SEMINARIO DE SISTEMAS/////////////////////////////////////
+////NOMBRE : Katerin Mayra Parra Alvarez
+////CI :     8522693
+
+
 /////////////////////////////////////Desafío ///////////////////////////////
 
 //1. Usando la librería express-upload, cree un servicio de nombre updateavatar​ , que pueda subir una imagen al servidor, actualice el

@@ -1,3 +1,7 @@
+///////////////////////////////////SEMINARIO DE SISTEMAS/////////////////////////////////////
+////NOMBRE : Katerin Mayra Parra Alvarez
+////CI :     8522693
+
 const mongoose = require("./connect");
 var USERSCHEMA ={
 name  :String,

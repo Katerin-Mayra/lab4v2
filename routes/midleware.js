@@ -1,3 +1,9 @@
+///////////////////////////////////SEMINARIO DE SISTEMAS/////////////////////////////////////
+////NOMBRE : Katerin Mayra Parra Alvarez
+////CI :     8522693
+
+
+
 //3. A todo el servicio agregue seguridad basándose en JWT, según lo visto en clases
 
 var JWT=require("jsonwebtoken");
